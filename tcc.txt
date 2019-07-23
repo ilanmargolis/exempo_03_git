@@ -9,4 +9,7 @@ Cap3
     Este capítulo tem coisa interessantes
 ...
 Referências
+    ref1
+    ref2
+    ref3
 ...
